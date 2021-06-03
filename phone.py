@@ -5,6 +5,8 @@ import unittest
 # if a strig does not have 10 digits it is invalid
 # any other chracter should be ignored
 
+#these changes are being made to the file in richard-code2
+#knees week, arms are heavy. there's vomit on his sweater already, moms spagetti
 def isphone_number(phone_number):
     pn = phone_number
     pn = pn.lower()                 #convert any letters to lower case
